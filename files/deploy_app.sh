@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Now or Never!!!
+=======
+  Now or Never!!! 
+>>>>>>> 9687becf2e4fb3182984a28f81a1d6c84237874a
   <!-- END -->
   
   </div>
